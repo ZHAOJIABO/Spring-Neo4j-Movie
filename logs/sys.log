@@ -1,0 +1,3 @@
+2021-02-03 23:24:43,928 INFO (StartupInfoLogger.java:50)- Starting App on LAPTOP-QNBI8HPE with PID 15592 (D:\Downloads\Spring-Boot-Neo4j-Movies-master\Spring-Boot-Neo4j-Movies-master\target\classes started by zhaojiabo in D:\Downloads\Spring-Boot-Neo4j-Movies-master\Spring-Boot-Neo4j-Movies-master)
+2021-02-03 23:24:43,978 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2021-02-03 23:25:08,707 INFO (StartupInfoLogger.java:59)- Started App in 25.417 seconds (JVM running for 30.819)
